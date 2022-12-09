@@ -1,0 +1,39 @@
+
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+.barra {
+  background-color: #E79CA1 !important;
+}
+div{
+    background-color: #F0DADF !important  ;
+}
+.opciones-der{
+  justify-content: space-between;
+  align-self: flex-end;
+}
+footer{
+  background-color: rgb(72, 74, 80);
+  color: #F0DADF;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  
+}
+.row{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-height: 70%;
+  float: left;
+  
+}
+.container{
+  
+  display:flex;
+  justify-content: space-between;
+  
+    
+}
+#bajo{
+  position: absolute;
+  margin-top: 150px;
+}
